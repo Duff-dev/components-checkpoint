@@ -1,8 +1,7 @@
 import React from 'react';
 import profile from '../Assets/profile.jfif'
 
-
-function ProfilPhoto() {
+const ProfilPhoto = () => {
   return (    
       <img src={profile} width='200px' />   
   );
