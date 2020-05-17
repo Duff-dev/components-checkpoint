@@ -1,7 +1,7 @@
 import React from 'react';
 
 
-function FullName() {
+const  FullName = () => {
   return (
     
       <h1>Edgar C Oleary</h1>
